@@ -8,10 +8,10 @@ function callMe() {
 }
 
 function crazy() {
-  thisisCrazy ();
   var thisIsCrazy = function (){
     console.log("hey!!!")
   }
+  thisisCrazy ();
 }
 
   function sayMyName() {
