@@ -8,8 +8,8 @@ function callMe() {
 }
 
 function crazy() {
-  
-  var thisIsCrazy 
+
+  var thisIsCrazy
   thisIsCrazy= function (){
     console.log("hey!!!");
   }
