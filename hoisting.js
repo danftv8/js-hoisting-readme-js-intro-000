@@ -7,16 +7,15 @@ function callMe() {
   return lyric;
 }
 
-var thisIsCrazy = function (){
-function crazy() {
-  // fix the code in here:
-  thisIsCrazy();
+var crazy = functino() {
+   vare thisisCrazy = function() {
+     console.log("hey!!!")
+   }
+   thisisCrazy();
+ }
+ crazy()
 
-    console.log("hey!!!")
-  }
-}
-
-function sayMyName() {
+  function sayMyName() {
   // fix the code in here:
   var name = "Cricky";
 
