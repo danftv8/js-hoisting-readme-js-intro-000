@@ -7,13 +7,12 @@ function callMe() {
   return lyric;
 }
 
-var crazy = functino() {
-   vare thisisCrazy = function() {
-     console.log("hey!!!")
-   }
-   thisisCrazy();
- }
- crazy()
+function crazy() {
+  thisisCrazy ();
+  varthisIsCrazy = function (){
+    console.log("hey!!!")
+  }
+}
 
   function sayMyName() {
   // fix the code in here:
