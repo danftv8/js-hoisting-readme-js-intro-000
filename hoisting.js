@@ -14,7 +14,6 @@ function crazy() {
   }
 thisisCrazy ();
 }
-thisisCrazy ();
 
   function sayMyName() {
   // fix the code in here:
